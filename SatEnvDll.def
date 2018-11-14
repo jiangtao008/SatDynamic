@@ -1,0 +1,9 @@
+#pragma once
+LIBRARY SatEnvDll
+
+EXPORTS
+attInit
+attProp
+QuatGetG
+QuatToEuler
+CalQuatRotG
